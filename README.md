@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba! 👋, Ben Muhammed Yaman</h1>
-<h3 align="center">Geliştirici ve öğrenciyim.</h3>
+<h3 align="center">Emek, alın teri ve başarı el ele yürür.</h3>
 
 - 🔭 I’m currently working on **myself**
 
