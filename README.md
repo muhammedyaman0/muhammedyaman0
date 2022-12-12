@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [muhammedyaman.com.tr](muhammedyaman.com.tr)
 
-- 📫 How to reach me **muhammedyaman0@yandex.com**
+- 📫 I'm available for any questions on **muhammedyaman0@yandex.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
